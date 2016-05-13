@@ -11,4 +11,4 @@ You will need to download OCTAVE - an open source version of MATLAB to run this 
 
 4.Build and run the octave code.    
 
-5.You have obtained your images in the initial folder.
+5.You have obtained your result on the octave terminal window.
